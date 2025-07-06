@@ -1,4 +1,4 @@
-# Project Title and description
+# Project Title and description (MERN STACK)
 TakeNotes
 Technologies: MongoDB, React js+Vite, Express.js, Node.js ,tailwindcss (MERN Stack)
 Description: Developed a full-stack note-taking web application optimized 50% by using React, Vite, Tailwind
