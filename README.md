@@ -13,6 +13,12 @@ Description: Developed a full-stack note-taking web application optimized 50% by
 # image
 If notes are not created the dashboard will be as below:
 ![image](https://github.com/user-attachments/assets/87262360-a63c-4664-9cd6-9a8311f6d38a)
+
+
+Homepage after creating notes
+
+![Screenshot 2025-07-06 123404](https://github.com/user-attachments/assets/5c6ed486-cd20-420f-8c89-d13177136e32)
+
 Creating your First Note:
 
 Creating Note using "New Note" Button:
@@ -24,4 +30,4 @@ https://github.com/user-attachments/assets/58ad945b-8800-4c84-9107-075c0b3217b9
 Deleting a Note:
 
 Updating a Note:
-https://github.com/SRIKOTI-SIRI-KRISHNA/TakeNotes/issues/1#issue-3206202801
+
