@@ -17,6 +17,10 @@ Creating your First Note:
 
 Creating Note using "New Note" Button:
 
+
+https://github.com/user-attachments/assets/58ad945b-8800-4c84-9107-075c0b3217b9
+
+
 Deleting a Note:
 
 Updating a Note:
