@@ -6,11 +6,11 @@ Description: Developed a full-stack note-taking web application optimized 50% by
  Router, elegant icons via Lucide-React, and backend services using Node.js, Express.js, and MongoDB Atlas.
  Integrated Upstash for API rate limiting to enhance performance and security.
 
- # 📷Features
+ # Features
 ✅ Create , Update and Delete notes
 ✅ Responsive design
 
-# Images and Demos
+# 📷 Images and Demos
 ## If notes are not created the Homepage will be as below:
 ![image](https://github.com/user-attachments/assets/87262360-a63c-4664-9cd6-9a8311f6d38a)
 
