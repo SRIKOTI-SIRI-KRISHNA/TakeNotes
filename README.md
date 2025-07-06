@@ -48,6 +48,10 @@ https://github.com/user-attachments/assets/58ad945b-8800-4c84-9107-075c0b3217b9
 
 
 
+https://github.com/user-attachments/assets/fbc4f7c5-d66d-456a-a60e-41ae414879b5
+
+
+
 
 
 https://github.com/user-attachments/assets/0a95af82-171e-4e88-8dbf-c031fe62fa11
@@ -55,4 +59,8 @@ https://github.com/user-attachments/assets/0a95af82-171e-4e88-8dbf-c031fe62fa11
 
 
 ## Updating a Note:
+
+
+https://github.com/user-attachments/assets/2294184e-0059-48c1-b097-1e9ea40d0155
+
 
