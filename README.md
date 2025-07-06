@@ -11,3 +11,4 @@ Description: Developed a full-stack note-taking web application optimized 50% by
 ✅ Responsive design
 
 # image
+![image](https://github.com/user-attachments/assets/87262360-a63c-4664-9cd6-9a8311f6d38a)
