@@ -11,7 +11,7 @@ Description: Developed a full-stack note-taking web application optimized 50% by
 ✅ Responsive design
 
 # Images and Demos
-## If notes are not created the dashboard will be as below:
+## If notes are not created the Homepage will be as below:
 ![image](https://github.com/user-attachments/assets/87262360-a63c-4664-9cd6-9a8311f6d38a)
 
 
@@ -27,7 +27,7 @@ Description: Developed a full-stack note-taking web application optimized 50% by
 https://github.com/user-attachments/assets/58ad945b-8800-4c84-9107-075c0b3217b9
 
 
-#Deleting a Note:
+## Deleting a Note:
 
-#Updating a Note:
+## Updating a Note:
 
