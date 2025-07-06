@@ -21,6 +21,21 @@ Description: Developed a full-stack note-taking web application optimized 50% by
 
 ## Creating your First Note:
 
+
+
+
+
+
+
+https://github.com/user-attachments/assets/5b9bef15-c85b-4fce-acb1-3716222f58c0
+
+
+
+
+
+
+
+
 ## Creating Note using "New Note" Button:
 
 
@@ -28,6 +43,16 @@ https://github.com/user-attachments/assets/58ad945b-8800-4c84-9107-075c0b3217b9
 
 
 ## Deleting a Note:
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/0a95af82-171e-4e88-8dbf-c031fe62fa11
+
+
 
 ## Updating a Note:
 
