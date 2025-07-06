@@ -11,4 +11,8 @@ Description: Developed a full-stack note-taking web application optimized 50% by
 ✅ Responsive design
 
 # image
+If notes are not created the dashboard will be as below:
 ![image](https://github.com/user-attachments/assets/87262360-a63c-4664-9cd6-9a8311f6d38a)
+Creating your First Note:
+https://github.com/user-attachments/assets/d7026c0c-2a71-4b70-9a28-01d9ff4a0dc8
+
